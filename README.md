@@ -52,5 +52,15 @@
 
 
 
-### Observations
+## Observations
+
+### New York City Level
+
+
+
+### New York City Borough Level
+
+
+
+### New York City Borough's Neigborhoods
 
