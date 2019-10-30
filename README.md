@@ -26,7 +26,6 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 
 1. What is the number and percentage of property types available in each borough?
 
-
 2. What is the average number of days available for booking for each type of property in each borough?
 
 3. What is the average price for each type of property in each borough?
@@ -63,17 +62,48 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 
 ### Data Import & Cleaning
 
+1. Import the 2019 NYC Airbnb Property dataset as a Pandas dataframe.
+2. Remove rows containing "N/A" values in any column.
+3. Remove rows containing inaccurate values in any column. 
+
 
 
 
 
 ### New York City Level
 
+#### Property Type Counts
+
+1. Group cleaned data by property type.
+2. Count total occurances of each property type.
+3. Plot bar graph of total property counts.
+
+#### Unique Host Counts
+1. Group cleaned data by property type.
+2. Count total nummber of unique host identification numbers per property type.
+3. Plot bar graph of unique hosts per property type.
+
 
 
 
 
 ### New York City Borough Level
+
+#### Property Type Counts & Percentage
+
+1. Group cleaned data by borough and property type.
+2. Calculate total occurances of each property type.
+3. 
+
+#### Property Type Average Availability
+
+#### Property Type Average Price
+
+1. Group cleaned data by borough and property type.
+2. Calculate average price per property type in each borough.
+3. Plot bar graph of average property type prices per borough.
+
+#### Property Type Average Minimum Night Requirement
 
 
 
