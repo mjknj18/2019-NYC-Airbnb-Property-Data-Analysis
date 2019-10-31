@@ -169,7 +169,7 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 
 #### Unique Host Counts
 
-
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Unique_Host_Count.png>
 
 
 
@@ -179,19 +179,27 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 
 #### Property Type Counts & Percentage
 
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Bronx_Property_Count.png>
 
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Brooklyn_Property_Count.png>
+
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Manhattan_Property_Count.png>
+
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Queens_Property_Count.png>
+
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Staten_Island_Property_Count.png>
 
 #### Property Type Average Availability
 
-
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Property_Type_Availability.png>
 
 #### Property Type Average Price
 
-
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Room_Type_Average_Price.png>
 
 #### Property Type Average Minimum Night Requirement
 
-
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Property_Type_Minimum_Nights.png>
 
 
 
@@ -201,23 +209,35 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 
 #### Most Reviews
 
-
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Most_Reviews.png>
 
 #### Highest Property Type Counts
 
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Entire_Home_Highest_Count.png>
 
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Private_Room_Highest_Count.png>
+
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Shared_Room_Highest_Count.png>
 
 #### Highest Average Price
 
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Entire_Home_Highest_Price.png>
 
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Private_Room_Highest_Price.png>
+
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Shared_Room_Highest_Price.png>
 
 #### Lowest Average Price
 
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Entire_Home_Lowest_Price.png>
 
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Private_Room_Lowest_Price.png>
+
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Shared_Room_Lowest_Price.png>
 
 #### Lowest Average Minimum Night Requirement
 
-
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Borough_Neighborhood_Lowest_Minimum_Nights.png>
 
 ## Trends/Observations/Conclusions
 
