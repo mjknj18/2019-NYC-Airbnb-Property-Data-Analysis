@@ -79,7 +79,7 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 3. Plot bar graph of total property counts.
 
 #### Unique Host Counts
-1. Group cleaned data by property type.
+1. Group cleaned data by property type and filter by host identification number.
 2. Count total nummber of unique host identification numbers per property type.
 3. Plot bar graph of unique hosts per property type.
 
@@ -92,24 +92,43 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 #### Property Type Counts & Percentage
 
 1. Group cleaned data by borough and property type.
-2. Calculate total occurances of each property type.
-3. 
+2. Count total occurances of each property type in each borough.
+3. Calculate percentage of each property type in each borough.
+4. Create pie charts of property type distribution in each borough.
 
 #### Property Type Average Availability
 
+1. Group cleaned data by borough and property type, and filter by availability.
+2. Calculate average availability of each property type in each borough.
+3. Plot bar graph of average property type availability per borough.
+
 #### Property Type Average Price
 
-1. Group cleaned data by borough and property type.
+1. Group cleaned data by borough and property type, and filter by price.
 2. Calculate average price per property type in each borough.
-3. Plot bar graph of average property type prices per borough.
+3. Plot bar graph of average property type price per borough.
 
 #### Property Type Average Minimum Night Requirement
+
+1. Group cleaned data by borough and property type, and filter by minimum night requirement.
+2. Calculate average minimum night requirement per property type in each borough.
+3. Plot bar graph of average property type minimum night requirement per borough.
 
 
 
 
 
 ### New York City Borough's Neigborhoods
+
+#### Most Reviews
+
+#### Highest Property Type Counts
+
+#### Highest Average Price
+
+#### Lowest Average Price
+
+#### Lowest Average Minimum Night Requirement
 
 
 
