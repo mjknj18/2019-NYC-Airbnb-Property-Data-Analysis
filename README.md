@@ -165,7 +165,7 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 
 #### Property Type Counts
 
-<img_src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Property_Type_Count.png>
+<img src = https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/Images/NYC_Property_Type_Count.png>
 
 #### Unique Host Counts
 
