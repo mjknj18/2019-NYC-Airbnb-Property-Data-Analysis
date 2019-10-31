@@ -418,7 +418,7 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 
 
 
-## Trends/Observations/Conclusions
+## Observations/Trends/Conclusions
 
 
 
