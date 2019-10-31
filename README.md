@@ -241,4 +241,4 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 
 ## Trends/Observations/Conclusions
 
-1. 
+1. https://github.com/mjknj18/2019-NYC-Airbnb-Property-Data-Analysis/blob/master/2019_NYC_Airbnb_Property_Data_Analysis_Main.ipynb
