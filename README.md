@@ -129,18 +129,28 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 #### Highest Property Type Counts
 
 1. Group cleaned data by borough and neighborhood, and filter by property type.
-2. Calculate total occurances of each property type in each neighborhood of each borough.
+2. Calculate total occurances of each property type in each neighborhood of each borough, and sort results from highest to lowest.
 3. Plot line graphs for each property type of the top five neighborhoods in each borough with the highest counts of that property type.
 
 #### Highest Average Price
 
 1. Create dataframe of cleaned data with borough as the index.
 2. Group created dataframe by neighborhood and property type.
-3. Calculate average 
+3. Calculate average price for each property type in each neighborhood of each borough, and sort results from highest to lowest.
+4. Plot line graphs for each property type of the top five neighborhoods in each borough with the highest average prices of that property type.
 
 #### Lowest Average Price
 
+1. Create dataframe of cleaned data with borough as the index.
+2. Group created dataframe by neighborhood and property type.
+3. Calculate average price for each property type in each neighborhood of each borough, and sort results from lowest to highest.
+4. Plot line graphs for each property type of the top five neighborhoods in each borough with the lowest average prices of that property type.
+
 #### Lowest Average Minimum Night Requirement
+
+1. Group cleaned data by borough and neighborhood, and filter by minimum night requirement.
+2. Calculate average minimum night requirement for each neighborhood in each borough, and sort results from lowest to highest.
+3. Plot line graph of top five neighborhoods in each borough with the lowest average minimum night requirements.
 
 
 
@@ -170,19 +180,4 @@ Group Project 1 involved choosing a dataset from an external source, using Pytho
 
 ## Trends/Observations/Conclusions
 
-
-
-### New York City Level
-
-
-
-
-
-### New York City Borough Level
-
-
-
-
-
-### New York City Borough's Neigborhoods
-
+1. 
